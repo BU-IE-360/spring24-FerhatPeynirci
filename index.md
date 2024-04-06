@@ -2,8 +2,8 @@
 
 
 #### Project 1
-* [Code in HTML Format](IE360/model_calisma.html)
-* [Code in Jupyter](IE360/model_calisma.html)
+* [Code in HTML Format](IE360_HW1/model_calisma.html)
+* [Code in Jupyter](IE360_HW1/model_calisma.html)
 
 
 ### Link To This Journal
